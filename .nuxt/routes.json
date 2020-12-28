@@ -1,0 +1,20 @@
+[
+  {
+    "name": "aboutUs",
+    "path": "/aboutUs",
+    "component": "C:\\\\Users\\\\Sameh\\\\Desktop\\\\new-nuxt\\\\pages\\\\aboutUs.vue",
+    "chunkName": "pages/aboutUs"
+  },
+  {
+    "name": "serivces",
+    "path": "/serivces",
+    "component": "C:\\\\Users\\\\Sameh\\\\Desktop\\\\new-nuxt\\\\pages\\\\serivces.vue",
+    "chunkName": "pages/serivces"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Sameh\\\\Desktop\\\\new-nuxt\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]

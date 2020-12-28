@@ -1,0 +1,28 @@
+{
+  "name": "new-nuxt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "start": "nuxt start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nuxtjs/axios": "^5.12.3",
+    "bootstrap": "^4.5.3",
+    "bootstrap-vue": "^2.21.1",
+    "bxslider": "^4.2.14",
+    "fontawesome": "^4.7.0",
+    "jquery": "^3.5.1",
+    "nuxt": "^2.14.9",
+    "popper": "^1.0.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.8.0"
+  }
+}
